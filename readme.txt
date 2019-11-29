@@ -1,1 +1,2 @@
-感谢CYC大佬的整理，基于http://cyc2018.gitee.io/cs-notes/#/README进行的leetcode若干题目练习
+感谢CYC大佬的整理
+http://cyc2018.gitee.io/cs-notes/#/README
